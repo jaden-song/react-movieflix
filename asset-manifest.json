@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/react-movieflix/static/js/main.89155e34.chunk.js",
+    "main.js.map": "/react-movieflix/static/js/main.89155e34.chunk.js.map",
+    "runtime-main.js": "/react-movieflix/static/js/runtime-main.17cddd17.js",
+    "runtime-main.js.map": "/react-movieflix/static/js/runtime-main.17cddd17.js.map",
+    "static/js/2.dfad521a.chunk.js": "/react-movieflix/static/js/2.dfad521a.chunk.js",
+    "static/js/2.dfad521a.chunk.js.map": "/react-movieflix/static/js/2.dfad521a.chunk.js.map",
+    "index.html": "/react-movieflix/index.html",
+    "precache-manifest.963952d9e763c2d09300254bec0a65ce.js": "/react-movieflix/precache-manifest.963952d9e763c2d09300254bec0a65ce.js",
+    "service-worker.js": "/react-movieflix/service-worker.js",
+    "static/js/2.dfad521a.chunk.js.LICENSE.txt": "/react-movieflix/static/js/2.dfad521a.chunk.js.LICENSE.txt",
+    "static/media/noPosterSmall.png": "/react-movieflix/static/media/noPosterSmall.87a0eb6a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17cddd17.js",
+    "static/js/2.dfad521a.chunk.js",
+    "static/js/main.89155e34.chunk.js"
+  ]
+}
